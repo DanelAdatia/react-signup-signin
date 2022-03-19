@@ -1,0 +1,344 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Danel",
+      "lastName": "Adatia",
+      "email": "daneladatia@gmail.com",
+      "password": "password",
+      "male": false,
+      "female": true,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "name": "Pooja",
+      "lastName": "Adatia",
+      "email": "poojaadatia@gmail.com",
+      "password": "password",
+      "male": false,
+      "female": true,
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "name": "Justin",
+      "lastName": "Bieber",
+      "email": "justinbieber@gmail.com",
+      "password": "password",
+      "male": true,
+      "female": false,
+      "country": "Canada"
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 21
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 24
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 27
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 29
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 32
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 33
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "checkedMale": false,
+      "checkedFemale": false,
+      "country": "",
+      "id": 34
+    }
+  ]
+}
